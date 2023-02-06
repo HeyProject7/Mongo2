@@ -1,0 +1,60 @@
+
+20/01/2023	8bbd3073-ada7-488b-90a9-0b4414426aea 	 Error	Not Allowed  logged
+20/01/2023	67e4a91b-cbe1-4721-b9ce-054f61bfab6f 	 Error	Not Allowed  logged
+20/01/2023	f1b0e992-b22d-4ea7-8744-c311e8b911f0 	 Error	Not Allowed  logged
+20/01/2023	44d0c0b9-f7fd-4f8a-9241-3c5de6328f1f 	 TypeError	req.accept is not a function logged
+20/01/2023	7ff56943-0661-4967-aee7-f36237e429d2 	 Error	Not Allowed  logged
+20/01/2023	21f578b7-c73c-432d-a68e-ee2f6b4cf49c 	 TypeError	req.accept is not a function logged
+20/01/2023	44f210bd-3d0a-49ca-aa74-3c44d7e7f74b 	 ReferenceError	fire is not defined logged
+20/01/2023	0768795d-9ed5-472e-a8d9-e84851d34c23 	 TypeError	fire.emit is not a function logged
+20/01/2023	6b300a12-65b8-4deb-a904-ebbe321cd2a9 	 ReferenceError	path is not defined logged
+20/01/2023	6e7a4a30-8aec-48dc-b7c7-2aa7f5d10842 	 ReferenceError	fire is not defined logged
+20/01/2023	75f39c67-8338-41fa-a6d0-03b458126dd9 	 TypeError	Cannot read properties of undefined (reading 'name') logged
+20/01/2023	584e7d75-eecf-49f5-b268-0b13b8324890 	 ReferenceError	fire is not defined logged
+20/01/2023	f9e513e5-b099-42c9-b9de-9e3529d9ba0b 	 TypeError	Cannot read properties of undefined (reading 'name') logged
+20/01/2023	19fbbd84-04cd-4fdc-ad29-187aa7eb1f8a 	 TypeError	Cannot read properties of undefined (reading 'fname') logged
+20/01/2023	50ecb1b5-6a4c-424d-8708-a045d9c975d3 	 TypeError	Cannot read properties of undefined (reading 'fname') logged
+20/01/2023	16ae1fbe-1e09-478f-b9cb-82141ce671cc 	 TypeError	Cannot read properties of undefined (reading 'fname') logged
+20/01/2023	106cb58a-35c0-4e1e-9985-a5797c34caca 	 TypeError	Cannot read properties of undefined (reading 'firstname') logged
+20/01/2023	0af2d6b8-f44a-4443-9608-03415752c40c 	 TypeError	Cannot read properties of undefined (reading 'firstname') logged
+20/01/2023	e8905f19-b5a2-4728-9f43-1227e5baf20e 	 TypeError	Cannot read properties of undefined (reading 'firstname') logged
+20/01/2023	86b10f84-fb48-4644-a50b-0a017e1a7d48 	 TypeError	Cannot read properties of undefined (reading 'firstname') logged
+20/01/2023	f0b6e943-8878-49a3-b018-ff6a49acead3 	 ReferenceError	fire is not defined logged
+20/01/2023	6fbab850-bd9b-4418-85b9-eed4bc8b0f88 	 TypeError	Cannot read properties of undefined (reading 'name') logged
+20/01/2023	af7b8c62-5cc1-4cf1-93cf-671d43ce1ea0 	 TypeError	Cannot read properties of undefined (reading 'name') logged
+20/01/2023	424b2135-cf19-427e-8989-ddc6dac9eba1 	 TypeError	Cannot read properties of undefined (reading 'name') logged
+20/01/2023	60d5825b-b1f5-4c01-ab8d-15f4bed4aca5 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+20/01/2023	b13dc477-3209-4103-b27b-3ec59d32956c 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+20/01/2023	32212502-d07f-4834-bc68-9b93c42a5544 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+20/01/2023	3bc2c067-d2c9-414a-97c4-b8be4aa85e93 	 TypeError	Cannot read properties of undefined (reading 'name') logged
+20/01/2023	d87eceb1-d08d-4779-a6c5-824319a518a6 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+2/11/2023	fdf8be2e-be94-4b1d-9d88-e4590d39de45 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+2/11/2023	be331c2f-983e-43df-afb4-94bb4924e1ac 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+2/11/2023	6d1b566b-55da-4496-9680-056816798865 	 Error	Cannot set headers after they are sent to the client logged
+3/11/2023	78f7dbf9-89a8-4fae-a9c4-7784cd2a8c59 	 Error	Cannot set headers after they are sent to the client logged
+3/11/2023	479a06a2-33b6-41e7-bc22-5ae689fc1924 	 Error	Cannot set headers after they are sent to the client logged
+4/11/2023	2e27b509-bed7-4d63-a95d-051a58b76fc9 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+4/11/2023	d6dff5f4-01fa-4854-ae6e-155846eaff37 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+4/11/2023	cc621b92-63e9-42cf-9842-19265001330e 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+4/11/2023	b9c13b39-4605-4584-a72b-e62cb52455d0 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+4/11/2023	cb6623e1-59b6-4615-a18c-193341f7b8da 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+4/11/2023	34e9c5a5-433c-457a-be04-851575ff268a 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+4/11/2023	f93c755c-ec33-4a2f-94a7-4830ec5a02af 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+4/11/2023	ce6ffd91-a31e-4985-ae5d-763a7d282684 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+4/11/2023	b64cd6c9-b694-4e03-90ab-507753eb6a64 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+4/11/2023	42189849-940f-4d69-9382-b7b336277fc2 	 TypeError	Cannot read properties of undefined (reading 'id') logged
+4/11/2023	650cb521-efe8-4e52-b5f6-f8106ab6744a 	 TypeError	Cannot read properties of undefined (reading 'name') logged
+4/11/2023	02bb04f8-1226-4212-be2d-4d73504a5b45 	 TypeError	Cannot read properties of undefined (reading 'name') logged
+4/11/2023	345094f1-e347-4287-a880-f95efc7c8bc8 	 TypeError	Cannot read properties of undefined (reading 'profession') logged
+4/11/2023	da2049db-ae16-47ac-a2e8-e5e742ba3db3 	 TypeError	Cannot read properties of undefined (reading 'profession') logged
+4/11/2023	861120a2-5314-4772-a467-be1d29580954 	 TypeError	Cannot read properties of undefined (reading 'name') logged
+4/11/2023	6bdffc46-ed02-4c44-b447-11adc6c89f9c 	 TypeError	Cannot read properties of undefined (reading 'name') logged
+4/11/2023	7f503b2d-ddef-4176-8b97-b6fbb460c4e3 	 TypeError	Cannot read properties of undefined (reading 'name') logged
+4/11/2023	0abe940b-f2f3-4993-a7e4-793b0d8c40a1 	 TypeError	Cannot read properties of undefined (reading 'find') logged
+4/11/2023	eaadd9d1-1a26-4d64-90df-b7badff9b7cf 	 TypeError	Cannot read properties of undefined (reading 'find') logged
+4/11/2023	09ed85e0-f14b-400f-9790-312f4c5db584 	 TypeError	Cannot read properties of undefined (reading 'find') logged
+4/11/2023	14db99aa-3855-4d7f-92b1-3c3fdfaf996d 	 TypeError	Cannot read properties of undefined (reading 'name') logged
+4/11/2023	c6698f25-e4f2-4713-b08c-375de3d5ac13 	 Error	Cannot set headers after they are sent to the client logged
+5/11/2023	9b09ae03-1bf9-4c17-a7a4-721c234b65e7 	 Error	Cannot set headers after they are sent to the client logged
+5/11/2023	f8291ce3-dfb2-4931-84a5-cc071879bec7 	 Error	Cannot set headers after they are sent to the client logged
+5/11/2023	e52adbfd-68c5-4c6d-836e-11503dd3f2c7 	 Error	Cannot set headers after they are sent to the client logged
